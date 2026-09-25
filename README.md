@@ -11,7 +11,7 @@ solutions to real-world problems.
 |---|---|
 | Programming | C++, JavaScript, Python |
 | Frontend | React, Next.js, HTML, CSS |
-| Backend | Node.js, Express.js, REST APIs |
+| Backend | Node.js |
 | Databases | PostgreSQL, Supabase |
 | Currently Learning | DSA, Backend Development, AI |
 
