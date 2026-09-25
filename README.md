@@ -1,11 +1,9 @@
-# Hi, I'm Tahira Nawab 
+# Hey, I'm Tahira Nawab 
 
-I'm a Software Engineering student at
-Information Technology University (ITU), Lahore.
+### Software Engineering Student | Full-Stack Developer
 
-I'm interested in Full-Stack Development,
-AI-powered applications, and building
-practical software solutions.
+I build web applications and explore AI-powered
+solutions to real-world problems.
 
 ## Skills & Technologies
 
@@ -13,13 +11,12 @@ practical software solutions.
 |---|---|
 | Programming | C++, JavaScript, Python |
 | Frontend | React, Next.js, HTML, CSS |
-| Backend | Node.js |
+| Backend | Node.js, Express.js, REST APIs |
 | Databases | PostgreSQL, Supabase |
-| Tools | Git, GitHub, VS Code |
+| Currently Learning | DSA, Backend Development, AI |
 
-## Currently Learning
+## Connect With Me
 
-- Data Structures & Algorithms
-- Backend Development
-- AI-powered applications
-  
+[LinkedIn](https://www.linkedin.com/in/tahira-nawab/) •
+[Portfolio](https://tahiranawab.vercel.app) •
+[Email](tahira.nawab.dev@gmail.com)
