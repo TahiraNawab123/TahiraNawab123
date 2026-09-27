@@ -13,10 +13,6 @@ Building web applications and AI-powered solutions.
 
 ---
 
-### About Me
-
-Software Engineering student at ITU Lahore, interested in Full-Stack Development, AI, and building practical software solutions.
-
 ### Tech Stack
 
 <div align="center">
