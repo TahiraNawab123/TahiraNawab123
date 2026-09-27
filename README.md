@@ -73,6 +73,4 @@ Building web applications, exploring AI, and turning ideas into practical soluti
 
 <br><br>
 
-<i>Thanks for visiting my profile!</i>
-
 </div>
