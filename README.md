@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# Tahira Nawab <a href="https://tahiranawab.vercel.app">
+# Tahira Nawab 
+<a href="https://tahiranawab.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
