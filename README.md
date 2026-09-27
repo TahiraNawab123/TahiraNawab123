@@ -1,20 +1,15 @@
 
 <div align="center">
 
-# Tahira Nawab
+# Tahira Nawab <a href="https://tahiranawab.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 ### Software Engineering Student | Full-Stack Developer
 
 Building web applications and AI-powered solutions that solve real-world problems.
 
 <br>
-
-<a href="https://tahiranawab.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/TahiraNawab123">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 </div>
 
@@ -73,9 +68,6 @@ Building web applications and AI-powered solutions that solve real-world problem
 </a>
 <a href="mailto:tahira.nawab.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://tahiranawab.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
